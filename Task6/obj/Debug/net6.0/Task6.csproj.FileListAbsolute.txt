@@ -1,0 +1,15 @@
+C:\Users\ledzh\Desktop\GIT EDUCATION\Homework C Sharp 1 05.12\Task6\bin\Debug\net6.0\Task6.exe
+C:\Users\ledzh\Desktop\GIT EDUCATION\Homework C Sharp 1 05.12\Task6\bin\Debug\net6.0\Task6.deps.json
+C:\Users\ledzh\Desktop\GIT EDUCATION\Homework C Sharp 1 05.12\Task6\bin\Debug\net6.0\Task6.runtimeconfig.json
+C:\Users\ledzh\Desktop\GIT EDUCATION\Homework C Sharp 1 05.12\Task6\bin\Debug\net6.0\Task6.dll
+C:\Users\ledzh\Desktop\GIT EDUCATION\Homework C Sharp 1 05.12\Task6\bin\Debug\net6.0\Task6.pdb
+C:\Users\ledzh\Desktop\GIT EDUCATION\Homework C Sharp 1 05.12\Task6\obj\Debug\net6.0\Task6.csproj.AssemblyReference.cache
+C:\Users\ledzh\Desktop\GIT EDUCATION\Homework C Sharp 1 05.12\Task6\obj\Debug\net6.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ledzh\Desktop\GIT EDUCATION\Homework C Sharp 1 05.12\Task6\obj\Debug\net6.0\Task6.AssemblyInfoInputs.cache
+C:\Users\ledzh\Desktop\GIT EDUCATION\Homework C Sharp 1 05.12\Task6\obj\Debug\net6.0\Task6.AssemblyInfo.cs
+C:\Users\ledzh\Desktop\GIT EDUCATION\Homework C Sharp 1 05.12\Task6\obj\Debug\net6.0\Task6.csproj.CoreCompileInputs.cache
+C:\Users\ledzh\Desktop\GIT EDUCATION\Homework C Sharp 1 05.12\Task6\obj\Debug\net6.0\Task6.dll
+C:\Users\ledzh\Desktop\GIT EDUCATION\Homework C Sharp 1 05.12\Task6\obj\Debug\net6.0\refint\Task6.dll
+C:\Users\ledzh\Desktop\GIT EDUCATION\Homework C Sharp 1 05.12\Task6\obj\Debug\net6.0\Task6.pdb
+C:\Users\ledzh\Desktop\GIT EDUCATION\Homework C Sharp 1 05.12\Task6\obj\Debug\net6.0\Task6.genruntimeconfig.cache
+C:\Users\ledzh\Desktop\GIT EDUCATION\Homework C Sharp 1 05.12\Task6\obj\Debug\net6.0\ref\Task6.dll
